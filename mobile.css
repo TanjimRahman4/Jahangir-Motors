@@ -152,3 +152,7 @@ footer a {
         font-size: 0.75rem;
     }
 }
+#demo {
+    width: 100% !important;
+    height: auto !important;
+}
